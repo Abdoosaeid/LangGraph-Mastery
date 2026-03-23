@@ -1,0 +1,13 @@
+langgraph
+langgraph-prebuilt
+langgraph-sdk
+langgraph-checkpoint-sqlite
+langsmith
+langchain-community
+langchain-core
+notebook
+langchain-tavily
+wikipedia
+trustcall
+langgraph-cli[inmem]  
+langchain-google-genai
