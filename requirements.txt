@@ -12,3 +12,5 @@ trustcall
 langgraph-cli[inmem]  
 langchain-google-genai
 langchain_openai
+langchain-nvidia-ai-endpoints
+langchain-groq
